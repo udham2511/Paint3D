@@ -25,7 +25,7 @@ Install dependencies
   pip install mediapipe, tensorflow
 ```
 
-Start the server
+Run the script
 
 ```bash
   python main.py
