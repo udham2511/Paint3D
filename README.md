@@ -4,7 +4,7 @@
 Fun drawing GUI. Can draw varoius shapes etc, in air.
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/udham2511/Paint3D/blob/main/gallery/screenshot.png)
 ## Run Locally
 
 Clone the project
